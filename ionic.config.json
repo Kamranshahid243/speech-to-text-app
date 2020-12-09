@@ -1,0 +1,7 @@
+{
+  "name": "SoundWriter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
